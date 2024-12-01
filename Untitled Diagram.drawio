@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.0">
   <diagram name="Page-1" id="4MuEjLQc-sfJ1G7aqaiS">
-    <mxGraphModel dx="6273" dy="2577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5777" dy="2323" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
         <mxCell id="Dmw1FC6Vs_S0ocpMfaep-35" value="Component Diagram" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="1" vertex="1">
           <mxGeometry x="-2216" y="-535" width="371" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="Dmw1FC6Vs_S0ocpMfaep-36" value="Class Diagram" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="1" vertex="1">
+        <mxCell id="Dmw1FC6Vs_S0ocpMfaep-36" value="Package Diagram" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="1" vertex="1">
           <mxGeometry x="1988" y="-227" width="371" height="185" as="geometry" />
         </mxCell>
         <mxCell id="Dmw1FC6Vs_S0ocpMfaep-38" value="User" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
@@ -551,7 +551,7 @@
         <mxCell id="6L8F-hR6kosaeE4vOyPI-6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;User&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=357;tabHeight=75;tabPosition=left;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1413" y="-13" width="1448" height="601" as="geometry" />
         </mxCell>
-        <mxCell id="6L8F-hR6kosaeE4vOyPI-7" value="Notification" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=139;tabHeight=42;tabPosition=left;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6L8F-hR6kosaeE4vOyPI-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Notification&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=139;tabHeight=42;tabPosition=left;html=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="769" y="-59" width="424" height="363" as="geometry" />
         </mxCell>
         <mxCell id="6L8F-hR6kosaeE4vOyPI-13" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;«Component»&lt;br&gt;&lt;b&gt;quiz&lt;/b&gt;&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
